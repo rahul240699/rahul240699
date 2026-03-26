@@ -18,8 +18,8 @@ I focus on making AI systems more observable, transactional, and integrated into
 
 ### 💻 Technical Arsenal
 
-* **Languages:** Python, Java, TypeScript, C++, Go, SQL
-* **AI/Data:** LLMs (OpenAI, Anthropic), RAG Pipelines, LangChain, Pinecone, Spark, Kafka
+* **Languages:** Python, Java, TypeScript, C++, SQL
+* **AI/Data:** LLMs (OpenAI, Anthropic), RAG Pipelines, LangChain, PostgreSQL, pgvector, Spark, Kafka
 * **Cloud/DevOps:** AWS (Certified Solutions Architect), Docker, Kubernetes, Terraform, CI/CD
 * **Web:** React, Next.js, Node.js, FastAPI, Spring Boot
 
